@@ -1,4 +1,4 @@
-# iACOS: Enhancing Implicit Sentiment Extraction by Informative and Adaptive Negative Sampling (NAACL 2024)
+# iACOS: Advancing Implicit Sentiment Extraction with Informative and Adaptive Negative Examples (NAACL 2024)
 
 ## Requirements
 
